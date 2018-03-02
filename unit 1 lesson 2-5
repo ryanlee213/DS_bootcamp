@@ -1,0 +1,36 @@
+1. 
+
+SELECT 
+	*
+FROM 
+	listings 
+ORDER BY price DESC
+LIMIT 10
+
+- The most expensive listing is not in a neighborhood group that any of following top 9 listings are in.  
+- There's only one review and it's in 2014-12-22 (seems a bit long ago relatively)
+
+
+2. 
+
+SELECT 
+	neighbourhood,
+	AVG(price) price
+FROM 
+	listings 
+GROUP BY 1
+ORDER BY price DESC
+
+- Southeast Magnolia, Portage Bay, and Westlake have the highest avg price
+
+
+3. 
+
+SELECT 
+	last_review,
+	AVG(price) price
+FROM 
+	listings 
+GROUP BY last_review
+
+- prices seem to pick up in the summer and winter
