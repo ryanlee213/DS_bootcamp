@@ -1,0 +1,28 @@
+Does a new supplement help people sleep better?
+- I think there would have to be two tests run to reach a conclusion.  One test is comparing the effects of the new supplement with people not taking any supplements, and another test to compare to effects of the new supplement against "old" supplements.  
+- The sample for each group will be as similar to the other sample groups as possible to ensure that the only variable that matters is the supplement/no supplement.
+- THe null hypothesis proposes no significant change, alternative hypothesis proposes new supplement helps people sleep better.
+- In order to measure quality of sleep, a heart-beat monitor (or a sleep monitor?) is the ideal choice, as length of sleep does not necessarily mean better or worse.  The sample groups will of course not be aware if they are receiving a placebo or the actual supplement.
+- There should be little to no variables influencing the result of the test (hopefully, with optimal sample grouping).  Variables that can be considered unsystematic include: sex, age, race, health conditions, maybe even geographically, diet, current sleeping and exercise habits to name a few.  Maybe something like the experiments' stress levels can be hard to categorize mainly due to its subjectivity, but there could be ways to better determine stress levels from a general health assessment of the experiments.
+
+Will new uniforms help a gym's business?
+* Gym customers may not always be able to visit the gym in a consistent manner.  In the worst case, some customers may not even be aware of the other uniform.  Also, it seems a bit complicated quantifying the effects of the new uniforms.  What measures should be used when analyzing the new uniforms?  How many new customers? how many returning customers? personal trainer requests? class requests?  
+    * Why I believe this test is particularly complicated is that there is no real way of guaranteeing whether or not the new uniform is the reason for the resulting outcome of the gym's business.  Comparing the gym's business before and after implementing the new uniforms would require both periods to be equal.  But once again, I feel like there is a consistent theme that just needs to be acknowledged and accepted by data scientists as systematic risk, which is just a random coincidence that lead to any particular outcome.  If the sample sizes for each sample group were large enough, we can say more confidently that it is not coincidence.  In this situation however, there is no timely way to retrieve sample sizes as time is the only way to get more samples. 
+- A test can be run with the gym's business as of the moment the new uniforms are implemented compared against the gym's business prior to the new uniforms.  Another option is to alternate between uniforms, however, this can can complicated quickly as to how frequently the uniforms should be alternated to ensure that neither sample groups receive preferential benefits. Despite this, alternating between uniforms may have to be the way to go due to the vastly differing sample sizes if going with the former option.  
+- The sample groups will be split into "days with old uniforms" and "days with new uniforms".  The days will be divided as evenly as possible.  
+- Null hypothesis is that new uniforms have no effect on the gym's business, alternative hypothesis is that new uniforms have an effect on the gym's business. 
+- Outcomes of interest include: number of new signups and number of retained customers.
+- Other measured variables include: number of a guest's visits and number of a guest's vists for each day.
+
+Will a new homepage improve my online exotic pet rental business?
+- The test will determine if the new homepage leads to more business.  So, the only variable that seems appropriate to use as the metric to determine if the new homepage leads to more business or not is sales.
+- The sample groups will be the days with the old and new homepage.  
+- Null hypo is that new hompeage does not improve the business; alternative hypo is that new homepage does improve business.
+- Outcomes of interest is sales, possibly website visits but cannot make any conclusions on its own.
+- Other measured variables: website visits, demand for exotic pet rentals
+
+If I put 'please read' in the email subject will more people read my emails?
+- Test will compare emails with 'please read' in the subject and emails without it. 
+- Sample groups will be emails with 'please read' and emails without 'please read' in the subject line.  In order to ensure that the sample groups are properly distributed, there should be close to an equal number of emails from each sample group.  Also, because we only want the subject line to influence the results of our test, the emails need to be nearly identical in terms of subject and content, with the only real difference being the subject line.  
+- Null hypo is that having 'please read' will not lead to more people reading emails.  Alternative hypo is that having 'please read' wil lead to a significant difference in people reading emails. 
+- Other measured variables:  content and subject of email, conflict of schedules/priorities...
