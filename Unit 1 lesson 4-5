@@ -1,0 +1,30 @@
+DRILL: Make a quick research proposal from one of the experiements in the previous assignment
+
+A company with work sites in five different countries has sent you data on employee satisfaction rates for workers in Human Resources and workers in Information Technology. Most HR workers are concentrated in three of the countries, while IT workers are equally distributed across worksites. The company requests a report on satisfaction for each job type. You calculate average job satisfaction for HR and for IT and present the report.
+
+
+The Problem:
+- Are all of the different departments (in this case, only HR and IT) satisfied in their current situations and/or with the company?  Is there any cause for concern for any specific deparment?  Because of the nature of HR and their close interactions with employment and salaries, ensuring that all of the employees are treated fairly is an important area of concern.  Knowing employee satisfaction helps if the right steps are being taken, or if extra/less measures need to be taken to determine the cause and solution to the unsatisfactory employee satisfaction rates.
+- Is there a signifcant difference in employee satisfaction rates across countries?  One country could show relatively good employee satisfaction rates for both deparments, while in another country, employee satisfation rates are very different.  Working in different countries and with people from different cultures can introduce a lot of "accidents".  If there is any particular country that is showing signs of employee dissatisfaction, it might be due to reasons such as these, which can and should be fixed very quickly before it escalates.  
+
+- There could also be an issue of low employee satisfaction overall, regardless of which department has better satisfaction rates.  HR and IT are two very easily outsourceable departments, and therefore somewhat out of touch with the other departments.  
+
+The Potential Solution
+- From the given information (or lack thereof), salary seems to be as reasonable a reason for employee dissatisfation as any.  As HR employees are likely more exposed to salary informations than IT employees, HR employees have a natural advantage when it comes to negotiating salary and could wind up much better off financially than their IT counterpart.  
+    - Also, HR and IT have very different operating structures, where IT gets assigned tasks from other departments that include retrieving data from a database, HR is all about the employees.  To put it roughly, IT do what they are told and HR can get you fired.  Therefore, it is easy to see how HR employees might receive friendly or beneficial treatment relative to IT employees, and that can be another reason for employee dissatisfaction.  
+    - If there is a sign that employee satisfaction is just lower overall, a possible reason being that they are treated differently due to being an "outsourced" department, steps can be taken to diminish those feelings. 
+    
+- The survey for employee satisfaction should include a section to the reason for good/bad employee satisfaction.  The solution should be adapted accordingly.  If salary is a concern for employees, being as transparent about salary as possible is a good first step.  IT workers may feel that they are being underpaid relative to HR workers, but there could very well be a justifiable reason for doing so that IT workers are not aware of.  If it turns out that some employees' colleagues are acting in a culturally offensive manner, instituting a cultural awareness seminar or the like can be one method of resolving some issues.  
+
+
+The method of testing the solution
+- Design:
+    - Variable of interest is employee satisfaction
+    - A/B testing by job type (HR and IT workers)
+        - Afterwards, can do A/B testing by job types and countries
+- Analysis plan: If employee satisfaction rates are great for both departments, than no steps need to be taken other than to maintain or even possibly increase employee satisfaction.
+    - If there is a significant difference in satisfaction rates between the two departments (probably using a pooled estimate of standard deviation)...
+    - If satisfation rates are lower than expected (using the expected figure as the null of course)...
+    
+- Benchmarks: 99% confidence level, 0.01 p-value
+    - If employee satisfaction rates are low or unequal, and some time after the solutions were implemented (however long the client feels appropriate) 
