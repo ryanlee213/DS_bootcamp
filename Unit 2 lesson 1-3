@@ -1,0 +1,49 @@
+Categorize each of the following research questions as "good" or "bad", and provide alternative formulations for the bad ones.
+
+What is the 1994 rate of juvenile delinquency in the U.S.?
+- "Bad question", as it just asks for a historical statistic that can be pulled up quickly
+- Is there anything abnormal about juvenile delinquency in the U.S. in 1994?
+    - This questions is very broad, maybe even too much so, but it requires digging into data and coming up with a conclusion based on that data: "juvenile delinquency was extremely low in 1994", "juvenile delinquency was relatively much higher on the west coast", "juvenile delinquency in the mid-1990s was higher than it is today"
+    
+What can we do to reduce juvenile delinquency in the U.S.?
+- "Good question", as this question requires research and analysis to come up with the method that works best at reducing juvenile delinquency
+
+Does education play a role in reducing juvenile delinquents' return to crime?
+- "Good question", although this one is more ambiguous and could be interpreted as a "bad question" as well in my opinion.
+- I think this is a good question because while the question is asking for information that happened in the best, it is not just a statistic that can be looked up easily.  
+- Instead, the questions requires either an experiment to test out a hypothesis (i.e., education DOES play a role in reducing juvenile delinquents' return to crime?), or to examine a previous experiment testing out the same thing.  Even in the case where previous experiments are being used, the results still have to be interpreted by the user, as opposed to accepting whatever conclusion the experiment reached.
+- However, this question can be seen as "bad" if people are okay with accepting the conclusions of previous similar experiments.
+
+How many customers does AT&T currently serve in Washington, DC?
+- "Bad question" that can be easily looked up.
+- What is the biggest motivator for customers choosing AT&T as their provider?
+    - I think my proposed alternative is a better question because it requires digging into information and coming up with a conclusion that could be different from what other people might come up with (results may be open to interpretation).  
+        - New phones are always good news for service providers.
+        - However, as there is stiff industry competition, phone plans are where the providers can gain/lose customers.
+        - How many customers choose the entire package? (how many customers only opt for the mobile phone services?)
+        - etc
+            - Combining all these together, which variable seems to have the most influence?
+
+What factors lead consumers to choose AT&T over other service providers?
+- "Good question", not just because I came up with the exact same question from the previous problem.
+
+How can AT&T attract more customers?
+- "Good question", although very similar to the previous example as it just asks the same question in a different way.
+
+Why did the Challenger Shuttle explode?
+- "Good question", but, I think, not the type of question statisticians might come across regularly.
+-  Someone who doesn't know any better might see this as a problem for "science" people.  However, data science is science so there we go.  
+    - Or they might say, this is an problem for "engineers", however, as a potential data engineer, the buck stops here. 
+- If there is proper data monitoring devices on the spacecraft, then NASA is receiving data from the spacecraft up to the moment it explodes.  With that data, this becomes BOTH a data science and an aerospace engineering problem. 
+
+Which genes are associated with increased risk of breast cancer?
+- If this is already known, then it's as easy as looking it up = "Bad question"
+- If this is not known, then it would require testing to determine the genes that increase risk of breast cancer = "good question"
+
+Is it better to read to children at night or in the morning?
+- "Good question" if it requires testing.  
+- The conclusion could also be indecisive if there are benefits to both (benefits to both taking hot and cold showers).
+
+How does Google’s search algorithm work?
+- "Bad question"; this isn't something you test, this is something you get paid by Google to do. 
+- Is Google's search algorithm better than other search engines' algorithms? 
