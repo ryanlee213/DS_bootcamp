@@ -1,0 +1,12 @@
+- 'cntry' = categorical variable
+- 'idno' = continuous ordinal variable
+- 'year' = categorical variable
+- 'tvtot' (tv total watched avg weekday) = continuous ratio variable
+- 'ppltrst' (most ppl can be trusted or you cant be too careful) = continuous interval variable
+- 'pplfair' (most ppl try to take advantage of you or try to be fair) = continuous interval variable
+- 'pplhlp' (most time ppl are helpful or mostly looking out for themselves) = continous inhterval variable
+- 'happy' (how happy are you) = continuous interval variable
+- 'sclmeet (how often socially meet with friends, relatives or colleagues) = continuous interval variable
+- 'gndr' = categorical variable
+- 'agea' = categorical variable
+- 'partner' = categorical variable
